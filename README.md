@@ -1,6 +1,5 @@
 ## KIM JI MIN 🌱
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlals3236)](https://solved.ac/wlals3236/)
 
 # Skills
 ### Platforms & Languages
@@ -16,6 +15,8 @@
 # 💬 Blog
 <!--
 **jimin990/jimin990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  백준
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlals3236)](https://solved.ac/wlals3236/)
 
 Here are some ideas to get you started:
 
