@@ -1,6 +1,9 @@
 ## Hi
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
+
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 <!--
 **jimin990/jimin990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
