@@ -1,4 +1,4 @@
-## Hi
+## KIM JI MIN 🌱
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlals3236)](https://solved.ac/wlals3236/)
 
@@ -11,10 +11,10 @@
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![intellij idea](https://img.shields.io/badge/intellij%20idea-#000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white)
+![Intellij Idea](https://img.shields.io/badge/Intellij%20Idea-#000000.svg?&style=for-the-badge&logo=Intellij%20Idea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 
-# :mailbox_with_mail: Contacts
+# 💬 Contacts
 <!--
 **jimin990/jimin990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
