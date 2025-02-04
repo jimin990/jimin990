@@ -11,10 +11,9 @@
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![intellijidea](https://img.shields.io/badge/intellijidea-#000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 
-# 💬 Contacts
+# 💬 Blog
 <!--
 **jimin990/jimin990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
