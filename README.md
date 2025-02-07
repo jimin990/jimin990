@@ -13,7 +13,11 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 
 # 💬 Blog
-![티스토리](https://img.shields.io/badge/tistory-#000000.svg?&style=for-the-badge&logo=tistory&logoColor=white)
+<div style="display:flex; flex-direction:row;">
+    <a href="https://kimjimin.tistory.com/">
+        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+    </a>
+</div><br>
 <!--
 **jimin990/jimin990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -  백준
