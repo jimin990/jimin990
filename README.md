@@ -13,6 +13,7 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 
 # 💬 Blog
+![tistory](https://img.shields.io/badge/tistory-#000000.svg?&style=for-the-badge&logo=tistory&logoColor=white)
 <!--
 **jimin990/jimin990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -  백준
