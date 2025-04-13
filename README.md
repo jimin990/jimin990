@@ -19,12 +19,14 @@
     </a>
 </div><br>
 
-**jimin990/jimin990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlals3236)](https://solved.ac/wlals3236/)
 
-Here are some ideas to get you started:
 <!--
+
+**jimin990/jimin990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
