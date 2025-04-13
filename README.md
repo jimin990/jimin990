@@ -1,5 +1,5 @@
 ## KIM JI MIN 🌱
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlals3236)](https://solved.ac/wlals3236/)
 
 # Skills
 ### Platforms & Languages
@@ -18,9 +18,6 @@
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
 </div><br>
-
-*****
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlals3236)](https://solved.ac/wlals3236/)
 
 <!--
 
