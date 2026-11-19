@@ -9,9 +9,6 @@
   <img src="https://img.shields.io/badge/HLSL-512BD4?style=flat-square"/>
 </p>
 
-## Graphics
-
-
 ## Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
