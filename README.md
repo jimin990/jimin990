@@ -5,7 +5,12 @@
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/UnrealEngine-313131?style=flat-square&logo=unrealengine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DirectX_11-107C10?style=flat-square"/>
+  <img src="https://img.shields.io/badge/HLSL-512BD4?style=flat-square"/>
 </p>
+
+## Graphics
+
 
 ## Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
